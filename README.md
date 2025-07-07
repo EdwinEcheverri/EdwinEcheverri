@@ -57,7 +57,7 @@ Estoy abierto a proyectos colaborativos, mentorías, retos de análisis o simple
 ## 📬 Conectemos
 
 - 📧 eechevec@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tu-perfil)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/edwinecheverricordoba/)  
 - 🧠 [Portafolio de proyectos](https://github.com/EdwinEcheverri?tab=repositories)
 
 ---
